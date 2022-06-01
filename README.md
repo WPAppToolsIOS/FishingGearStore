@@ -1,4 +1,1 @@
-
-# Haikus for Codespaces
-
-This is a quick node project template for demoing Codespaces. It is based off of the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
+Privacy policy this application respects and protects the personal privacy of all users using the service. In order to provide you with more accurate and personalized services, this app will use and disclose your personal information in accordance with the provisions of this privacy policy. However, this application will treat this information with a high degree of diligence and prudence. Unless otherwise specified in this privacy policy, this app will not disclose this information to the public or provide it to third parties without your prior permission. This app will update this privacy policy from time to time. When you agree to this application service use agreement, you shall be deemed to have agreed to all the contents of this privacy policy. This privacy policy is an integral part of this application service use agreement.
